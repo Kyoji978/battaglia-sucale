@@ -13,5 +13,5 @@ c=x-y;
 printf("%d",c);
 
 
-  return 0
+  return 0;
 }
